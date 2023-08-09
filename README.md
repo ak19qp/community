@@ -17,4 +17,4 @@ The dataset also contains the caller callee directed lists for gephi to import a
 6. Run the following in gephi maintaining the sequence: Avg Degree, Avg Weighted Degree, HITS, Pagerank.
 7. Export from gephi, make sure to export the nodes page. Click on options during export to make sure of it.
 8. Save it as gephi.csv
-9. RUn script2: python step3.py
+9. Run script2: python step3.py
